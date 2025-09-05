@@ -31,8 +31,8 @@ Make sure Docker Desktop is installed and running on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/CodeIO-BMSCE/Webcampus.git
-cd Webcampus
+git clone https://github.com/HitishRaoP/webcampus.git
+cd webcampus
 ```
 
 ### 2. Environment variables
